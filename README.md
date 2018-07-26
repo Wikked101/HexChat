@@ -1,0 +1,2 @@
+# HexChat
+HexChat Python Scripts
